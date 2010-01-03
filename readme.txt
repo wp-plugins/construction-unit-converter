@@ -44,6 +44,3 @@ Installation is done the usual way:
 
 = 1.0 =
 * First version
-
-= 1.1 =
-* Update readme.txt file
